@@ -6,8 +6,6 @@ body{
     margin: 0 auto;
     max-width: 375px;
     height: 1899px;
-    border: 3px solid black;
-    border-radius: 15px;
     background: linear-gradient(230deg, #B8DC51 17.94%, rgba(173, 219, 99, 0.93) 87.68%);
     
 
